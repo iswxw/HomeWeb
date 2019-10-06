@@ -1,9 +1,9 @@
 {
-  "name": "vuepress-homepage",
+  "name": "HomeWeb",
   "version": "0.0.1",
-  "description": "Generate your homepage with VuePress",
-  "author": "Fing <mtobeiyf@163.com>",
-  "repository": "https://github.com/mtobeiyf/vuepress-homepage.git",
+  "description": "年少有伟",
+  "author": "Fing <1550518923@qq.com>",
+  "repository": "https://github.com/GitHubWxw/HomeWeb.git",
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",

@@ -1,18 +1,16 @@
 module.exports = {
-  title: '年少 有伟',
+  title: 'Harry Potter',
   description: 'The description of the site.',
-  head: [
-    ['link', { rel: 'shortcut icon', href: './public/icons/favicon.ico' }]
-  ],
+  head: [['link', { rel: 'icon', href: `/logo.png` }]],
   base: '/HomeWeb/',
   dest: './dist',
 
   themeConfig: {
     nav: [
-      { text: '首页', link: '/' },
-      { text: '项目', link: '/projects/' },
-      { text: '指南', link: '/guide/' },
-      { text: 'GitHub', link: 'https://github.com/GitHubWxw' }
+      { text: 'Home', link: '/' },
+      { text: 'Projects', link: '/projects/' },
+      { text: 'Guide', link: '/guide/' },
+      { text: 'GitHub', link: 'https://github.com/mtobeiyf/vuepress-homepage' }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
