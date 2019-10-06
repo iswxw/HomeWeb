@@ -6,13 +6,13 @@ head: '年少 有伟'
 info: '天津理工大学'
 interests: '兴趣爱好:  后端开发、前端热门技术.'
 socials:
-  - title: github
-    link: https://github.com/GitHubWxw
-  - title: linkedin
+  - title: 码云
+    link: https://gitee.com/JavaStudyWxw
+  - title: 博客园
     link: https://www.cnblogs.com/2019wxw
-  - title: instagram
+  - title: CSDN
     link: https://blog.csdn.net/qq_41893274
-  - title: email
+  - title: 邮箱
     link: 'mailto:1550518923@qq.com'
 actions:
   - text: 项目实践
