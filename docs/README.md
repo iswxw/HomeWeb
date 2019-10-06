@@ -1,16 +1,30 @@
 ---
-home: true
-heroImage: /head.png
-heroText: 技术笔记记录首页
-tagline: 技术博客
-actionText: 快速上手 →
-actionLink: /blog/FirstBlog.md
-features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue驱动
-    details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2019-present Evan You
+layout: Homepage
+description: '技术笔记记录首页.'
+avatar: /head.png
+head: '年少 有伟'
+info: '天津理工大学'
+interests: '兴趣爱好:  后端开发、前端热门技术.'
+socials:
+  - title: github
+    link: https://github.com/GitHubWxw
+  - title: linkedin
+    link: https://www.cnblogs.com/2019wxw
+  - title: instagram
+    link: https://blog.csdn.net/qq_41893274
+  - title: email
+    link: 'mailto:1550518923@qq.com'
+actions:
+  - text: 技术博客
+    link: /projects/
+  - text: 个人博客
+    link: https://githubwxw.github.io/
+  - text: 最近文章
+    link: /article/
+footer: Made with ♥ by Fing. Powered by VuePress
 ---
+
+&emsp;&emsp;我的名字叫 年少有伟 技术栈是 前端和后端都有涉及,虽然技术一般, 但是我时刻努力着,
+我相信我会成为大佬的
+目前还是一名苦逼的学生党:, 正在找开发工作, 兴趣、主动是我的优点
+常于思考, 把知识写成博客, 和总结笔记, 混迹于 GitHub 边缘 :dizzy:
