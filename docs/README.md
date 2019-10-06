@@ -15,12 +15,12 @@ socials:
   - title: email
     link: 'mailto:1550518923@qq.com'
 actions:
-  - text: 技术博客
-    link: /projects/
+  - text: 项目实践
+    link: ./projects/
   - text: 个人博客
     link: https://githubwxw.github.io/
-  - text: 最近文章
-    link: /article/
+  - text: 技术笔记
+    link: ./article/
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
