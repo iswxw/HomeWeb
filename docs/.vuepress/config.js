@@ -10,7 +10,7 @@ module.exports = {
         content: 'width=device-width,initial-scale=1,user-scalable=no'
       }
     ],
-    ['link', { rel: 'icon', href: 'favicon.ico' }]
+    ['link', { rel: 'icon', href: './favicon.ico' }]
   ],
   // 导航栏
   themeConfig: {
