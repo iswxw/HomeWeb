@@ -1,17 +1,11 @@
-# Introduction
+### 友情链接
 
-This is a skeleton built for generating static site for yourself, especially helpful and friendly to students, teachers, developers, researchers and so on.
+#### 一、强烈推荐|优秀博主
 
-It's suitable for building your personal homepage with:
-- About me :raising_hand:
-- Projects, publications, portfolio :books:
-- Biography, timeline, resume(CV) :page_with_curl: 
+- [Java 技术驿站](http://cmsblogs.com/?page_id=3027)
+- [程序员技术江湖-黄小斜](https://how2playlife.com/categories/)
+- [菜鸟教程 MySQL](https://www.runoob.com/mysql/mysql-group-by-statement.html)
 
-## Features
-- Markdown and emoji supported :smiley:
-- Elegant and minimalistic
-- Customizable and mobile-friendly
-- Multi-language support
-- Powered by [VuePress](https://vuepress.vuejs.org/) and [Vue.js](https://vuejs.org/)
+#### 一、强烈推荐|优秀文章
 
-Now, let's try it :point_right:
+- [心力、脑力、体力](https://yq.aliyun.com/articles/411857?spm=a2c4e.11153940.0.0.6e4875bfUDMxab)

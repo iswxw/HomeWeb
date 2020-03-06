@@ -16,9 +16,9 @@ socials:
     link: 'mailto:1550518923@qq.com'
 actions:
   - text: 项目实践
-    link: ./projects/
+    link: ./projects/乐优商城介绍.html
   - text: 个人博客
-    link: https://githubwxw.github.io/
+    link: https://blog.wxw.plus/
   - text: 技术笔记
     link: ./article/
 footer: Made with ♥ by Fing. Powered by VuePress
