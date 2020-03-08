@@ -21,7 +21,7 @@ actions:
     link: https://blog.wxw.plus/
   - text: 技术笔记
     link: ./article/
-footer: Made with ♥ by Fing. Powered by VuePress
+footer: Made with ♥ by Fing. Powered by 年少有为
 ---
 
 &emsp;&emsp;我的名字叫 年少有伟 技术栈是 前端和后端都有涉及,虽然技术一般, 但是我时刻努力着,

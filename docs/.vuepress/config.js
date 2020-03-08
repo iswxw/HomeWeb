@@ -80,18 +80,61 @@ module.exports = {
         ]
       },
       {
-        text: '前端技术',
-        link: '/Web/',
+        text: '中间件',
         items: [
-          { text: '工具框架', link: '/Web/工具框架/' },
-          { text: 'VUE', link: '/Web/VUE/' },
-          { text: 'JavaScript', link: '/Web/JavaScript/' },
-          { text: 'Html&CSS', link: '/Web/Html&CSS/' },
-          { text: '前端小知识', link: '/Web/前端小知识/' }
+          {text:'RPC远程服务Dubbo',link:'http://dubbo.apache.org/zh-cn/docs/user/quick-start.html'},
+          {text:'注册中心zookeeper ',link:'http://dubbo.apache.org/zh-cn/docs/user/references/registry/zookeeper.html'},
+          {text:'消息队列RabbitMQ',link:'https://www.rabbitmq.com/getstarted.html'},
+          {text:'搜索引擎ES',link:'https://github.com/elastic/elasticsearch'},
+          {text:'分布式缓存Redis',link:'https://redis.io'},
+          {text:'NoSql数据库mycat',link:'http://www.mycat.io'},
+          {text:'测试与部署',
+           items:[
+            {text:'容器化技术Docker',link:'https://www.docker.com/get-started'},
+            {text:'自动化集成Jekins',link:'https://github.com/jenkinsci/jenkins'}
+           ]
+          },
         ]
       },
       {
-        text: '项目',
+        text: '前端技术',
+        items: [
+          { text: 'VUE', link: 'https://cn.vuejs.org/v2/api/' },
+          { text: 'Axios', link: 'https://www.kancloud.cn/yunye/axios/234845' },
+          { text: 'CSS', link: 'https://www.w3cschool.cn/css/css-link.html' },
+          { text: 'Jquery', link: 'https://www.jquery123.com/' },
+        ]
+      },
+      {
+        text: '在线工具',
+        items: [
+          { text: 'JSON 编辑器', link: 'https://www.bejson.com/jsoneditoronline' },
+          { text: '二维码生成器', link: 'https://cli.im' },
+          { text: 'Properties<->Yml', link: 'https://www.toyaml.com/index.html' },
+          { text: 'MD表格生成器', link: 'https://tableconvert.com/?output=text' },
+          { text: 'CRON表达式', link: 'http://cron.qqe2.com' },
+          { text: 'JWT 解码', link: 'https://jwt.io/#debugger' },
+          { text: '数据加解密', link: 'https://www.webjars.org' },
+          { text: '图片编辑', link: 'https://www.uupoop.com/zp' },
+          { text: '在线手册', link: 'http://www.fly63.com/tool' },
+          { text: '菜鸟工具', link: 'https://c.runoob.com' },
+          {text: '开源镜像',
+          items:[
+           { text: '阿里OPSX', link: 'https://www.bootcdn.cn' },
+           { text: 'Azure', link: 'https://mirror.azure.cn' },
+           { text: 'Docker Hub', link: 'https://hub.docker.com' }
+           ] 
+          },
+          {text: '在线服务',
+           items:[
+            { text: 'Boot CDN', link: 'https://www.bootcdn.cn' },
+            { text: '腾讯开发手册', link: 'https://cloud.tencent.com/developer/devdocs' }
+            ] 
+          },
+        ]
+      },
+      {
+        text: '项目案例',
         link: '/projects/',
         items: [
           { link: '/projects/乐优商城介绍.md', text: '' },
