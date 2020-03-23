@@ -159,7 +159,7 @@ module.exports = {
         children:[
           {path:'/Java/项目搭建及ES6语法/day04-乐优商城项目搭建.md',title:'(1) 项目搭建及ES6语法'},
           {path:'/Java/vue入门/day05-vue入门.md',title:'(2) Vue 入门'},
-          {path:'/Java/商品分类(vuetify-nginx-cors)/day06.md',title:'(3) 商品分类(nginx-cors)'},
+          {path:'/Java/商品分类/day06.md',title:'(3) 商品分类'},
           {path:'/Java/品牌查询/day07.md',title:'(4) 品牌查询'},
           {path:'/Java/品牌新增及fastDFS/day08-品牌管理.md',title:'(5) 品牌新增及fastDFS'},
           {path:'/Java/规格参数/day09-商品规格管理.md',title:'(6) 规格参数'},
@@ -169,7 +169,7 @@ module.exports = {
           {path:'/Java/搜索过滤/day13-搜索过滤.md',title:'(10) 搜索过滤'},
           {path:'/Java/thymeleaf及静态化/day14.商品详情及静态化.md',title:'(11) thymeleaf及静态化'},
           {path:'/Java/rabbitMQ/day15-rabbitmq及数据同步.md',title:'(12) rabbitMQ'},
-          {path:'/Java/用户注册(阿里大于及hibernate-validate)/day16-用户注册.md',title:'(13) 用户注册'},
+          {path:'/Java/用户注册/day16-用户注册.md',title:'(13) 用户注册'},
           {path:'/Java/授权中心/day17-授权中心.md',title:'(14) 授权中心'},
           {path:'/Java/购物车/day18-购物车.md',title:'(15) 购物车'},
           {path:'/Java/下单/day19-下单.md',title:'(16) 下单'},
