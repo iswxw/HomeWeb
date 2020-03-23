@@ -117,7 +117,7 @@ module.exports = {
           { text: '数据加解密', link: 'https://www.webjars.org' },
           { text: '图片编辑', link: 'https://www.uupoop.com/zp' },
           { text: '在线手册', link: 'http://www.fly63.com/tool' },
-          { text: '菜鸟工具', link: 'https://c.runoob.com' },
+          { text: '菜鸟工具', link: 'https://tool.lu' },
           {text: '开源镜像',
           items:[
            { text: '阿里OPSX', link: 'https://www.bootcdn.cn' },
@@ -145,23 +145,36 @@ module.exports = {
     ],
     // 侧边栏
     // sidebar: [['./', '首页'], ['/blog/博客首发.md', '我的第一篇博客']],
-    sidebar: [
-      ['/', '首页导读'],
-      ['/blog/Java实习总结.md', '1，Java实习总结'],
-      ['/Java/SpringBoot/springboot基础入门.md', '2，SpringBoot基础'],
-      ['/Java/数据库技术/SQL优化笔记.md', '3，SQL优化笔记'],
-      ['/projects/乐优商城介绍.md', '4，购物商城项目']
-      // ['/Java/算法与数据结构/', ''],
-      // ['/Java/JVM虚拟机/', '常用垃圾回收算法'],
-      // ['/Java/Java并发编程/', ''],
-      // ['/Java/Spring/', ''],
-      // ['/Java/SpringBoot/', ''],
-      // ['/Java/微服务技术/', ''],
-      // ['/Java/Linux/', ''],
-      // ['/Web/工具框架/', ''],
-      // ['/Web/VUE/', ''],
-      // ['/Web/Html&CSS/', ''],
-      // ['/Web/前端小知识/', '']
+    sidebar: [ 
+      ['/','首页导读'],
+      ['/blog/Java实习总结.md','1，Java实习总结'],
+      ['/Java/SpringBoot/springboot基础入门.md','2，SpringBoot基础'],
+      ['/Java/SpringCloud/cloud1/SpringCloud.md','3，SpringCloud入门'],
+      ['/Java/SpringCloud/cloud2/SpringCloud2.md','4，SpringCloud基础'],
+      ['/Java/数据库技术/SQL优化笔记.md','5，SQL优化笔记'],
+      ['/projects/乐优商城介绍.md','6，购物商城项目'],
+      {
+        title:'5，商城项目精华',
+        collapsable: true,  
+        children:[
+          {path:'/Java/项目搭建及ES6语法/day04-乐优商城项目搭建.md',title:'(1) 项目搭建及ES6语法'},
+          {path:'/Java/vue入门/day05-vue入门.md',title:'(2) Vue 入门'},
+          {path:'/Java/商品分类(vuetify-nginx-cors)/day06.md',title:'(3) 商品分类(nginx-cors)'},
+          {path:'/Java/品牌查询/day07.md',title:'(4) 品牌查询'},
+          {path:'/Java/品牌新增及fastDFS/day08-品牌管理.md',title:'(5) 品牌新增及fastDFS'},
+          {path:'/Java/规格参数/day09-商品规格管理.md',title:'(6) 规格参数'},
+          {path:'/Java/商品管理/day10-商品管理.md',title:'(7) 商品管理'},
+          {path:'/Java/elasticsearch/day11-elasticsearch.md',title:'(8) elasticsearch'},
+          {path:'/Java/基本搜索/day12.基本搜索.md',title:'(9) 基本搜索'},
+          {path:'/Java/搜索过滤/day13-搜索过滤.md',title:'(10) 搜索过滤'},
+          {path:'/Java/thymeleaf及静态化/day14.商品详情及静态化.md',title:'(11) thymeleaf及静态化'},
+          {path:'/Java/rabbitMQ/day15-rabbitmq及数据同步.md',title:'(12) rabbitMQ'},
+          {path:'/Java/用户注册(阿里大于及hibernate-validate)/day16-用户注册.md',title:'(13) 用户注册'},
+          {path:'/Java/授权中心/day17-授权中心.md',title:'(14) 授权中心'},
+          {path:'/Java/购物车/day18-购物车.md',title:'(15) 购物车'},
+          {path:'/Java/下单/day19-下单.md',title:'(16) 下单'},
+          ] 
+        }
     ],
     lastUpdated: '最近更新时间'
   }
