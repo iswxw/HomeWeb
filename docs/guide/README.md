@@ -7,6 +7,9 @@
 - [菜鸟教程 MySQL](https://www.runoob.com/mysql/mysql-group-by-statement.html)
 - [千峰教育 李卫民](https://www.funtl.com/zh/guide/)
 - [程序员DD](http://blog.didispace.com)
+- [Rabbit开发指南](http://www.itmuch.com/books/rocketmq/)
+- [Rabbit开发指南](http://www.itmuch.com/books/rocketmq/)
+
 
 #### 二、强烈推荐|优秀文章
 

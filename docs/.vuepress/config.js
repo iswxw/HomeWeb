@@ -26,7 +26,7 @@ module.exports = {
         text: '后端技术',
         link: '/Java/',
         items: [
-          { text: '算法与数据结构', link: '/Java/算法与数据结构/' },
+          { text: 'Java核心笔记', link: 'https://howtodoinjava.com' },
           {
             text: 'JVM虚拟机',
             link: '/Java/JVM虚拟机/',
@@ -116,8 +116,8 @@ module.exports = {
           { text: 'JWT 解码', link: 'https://jwt.io/#debugger' },
           { text: '数据加解密', link: 'https://www.webjars.org' },
           { text: '图片编辑', link: 'https://www.uupoop.com/zp' },
-          { text: '在线手册', link: 'http://www.fly63.com/tool' },
-          { text: '菜鸟工具', link: 'https://tool.lu' },
+          { text: '在线工具1', link: 'http://www.fly63.com/tool' },
+          { text: '在线工具2', link: 'https://tool.lu' },
           {text: '开源镜像',
           items:[
            { text: '阿里OPSX', link: 'https://www.bootcdn.cn' },
