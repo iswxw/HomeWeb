@@ -3,7 +3,7 @@ layout: Homepage
 description: '技术笔记记录首页.'
 avatar: /head.png
 head: '年少 有伟'
-info: '天津理工大学'
+# info: '天津理工大学'
 interests: '兴趣爱好:  后端开发、前端热门技术.'
 socials:
   - title: gitee
@@ -20,7 +20,7 @@ actions:
   - text: 个人博客
     link: https://blog.wxw.plus/
   - text: 技术笔记
-    link: ./article/
+    link: ./notes/guide/
 footer: Made with ♥ by Fing. Powered by 年少有为
 ---
 

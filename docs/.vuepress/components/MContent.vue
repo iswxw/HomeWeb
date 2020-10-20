@@ -1,3 +1,9 @@
+<!--
+ * @Descripttion: 内容页
+ * @version: V 1.0
+ * @Author: wxw
+ * @Date: 2020-10-18 21:38:22
+--> 
 <template>
   <div>
   </div>
@@ -18,7 +24,7 @@ export default {
       type: Boolean
     }
   },
-
+  // 挂载
   mounted() {
     var md = new markdownIt().use(emoji);
     var result;
@@ -31,7 +37,5 @@ export default {
   }
 };
 </script>
-
 <style>
-
 </style>
