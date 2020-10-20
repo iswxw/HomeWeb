@@ -6,8 +6,24 @@
 ### 
 #!/usr/bin/env sh
 
+# 进入历史静态文件目录dist
+cd docs/.vuepress
+
+# 删除静态文件目录
+rm -rf dist
+
+echo "已经删除dist目录"
+
+# 回到docs目录
+cd ..
+
+# 回到HomeWeb目录
+cd ..
+
 # 确保脚本抛出遇到的错误
 set -e
+
+echo "开始构建静态文件"
 
 # 生成静态文件
 npm run build
