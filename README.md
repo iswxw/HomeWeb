@@ -26,8 +26,13 @@
 执行根目录脚本： ` deploy.sh` 
 
 ```bash
-$ sh deploy.sh
+## 此脚本只会发布到gp-pages分支，最后记得push更新master分支
+$sh deploy.sh
 
+## push master分支
+$git add .
+$git commit -m "提交内容"
+$git push
 ```
 
 ### 四、附件
