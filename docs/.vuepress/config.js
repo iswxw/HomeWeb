@@ -14,7 +14,7 @@ module.exports = {
   // 导航栏
   themeConfig: {
     // 你的GitHub仓库，请正确填写
-    repo: 'https://github.com/GitHubWxw/HomeWeb',
+    repo: 'https://github.com/iswxw/HomeWeb',
     //repo: 'https://localhost:8080/HomeWeb',
     // 自定义仓库链接文字。
     repoLabel: 'HomeWeb',
