@@ -1,7 +1,7 @@
 module.exports = {
   base: '/HomeWeb/',
   // base: '',
-  title: '年少有伟',
+  title: '试剑江湖',
   description: '技术笔记记录首页',
   head: [
     ['meta', {
